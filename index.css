@@ -40,7 +40,7 @@ header {
 }
 
 .menu-toggle .bar {
-    height: 4px;
+    height: 10px;
     width: 100%;
     background-color: white;
 }
